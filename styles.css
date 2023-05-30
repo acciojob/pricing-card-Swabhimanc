@@ -31,3 +31,18 @@
   font-size: 14px;
   line-height: 1.5;
 }
+.buy-now-btn {
+  background-color: #00b894;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.buy-now-btn:hover {
+  background-color: #00a38c;
+}
+
